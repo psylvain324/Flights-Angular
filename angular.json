@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Flights-Mobile"
+    }
+  },
+  "defaultProject": "Flights-Mobile",
+  "cli": {
+    "analytics": "a5dd807d-0ead-4406-b79e-c82adb0d9838"
+  }
 }
